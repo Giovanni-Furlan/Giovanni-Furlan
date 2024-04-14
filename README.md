@@ -7,7 +7,7 @@ Let's connect and collaborate on exciting projects!
 [![Linkedin: GiovanniFurlan](https://img.shields.io/badge/-GiovanniFurlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Giovanni--Furlan/)](https://www.linkedin.com/in/Giovanni--Furlan/)
 [![GitHub GiovanniFurlan](https://img.shields.io/github/followers/Giovanni-Furlan?label=follow&style=social)](https://github.com/Giovanni-Furlan)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Giovanni-Furlan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Giovanni-Furlan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
