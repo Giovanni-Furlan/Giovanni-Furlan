@@ -4,7 +4,7 @@ Hello there! I am a Back End developer 💻 passionate about crafting robust sol
 When I'm not immersed in code, you'll often find me indulging in my favourite TV series or diving into the latest video game releases. 
 Let's connect and collaborate on exciting projects!
 
-[![Linkedin: GiovanniFurlan](https://img.shields.io/badge/-Giovanni Furlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/giovanni--furlan/)](hhttps://www.linkedin.com/in/giovanni--furlan/)
+[![Linkedin: GiovanniFurlan](https://img.shields.io/badge/-GiovanniFurlan-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/giovanni--furlan/)](hhttps://www.linkedin.com/in/giovanni--furlan/)
 [![GitHub GiovanniFurlan](https://img.shields.io/github/followers/DeveloperWayIT?label=follow&style=social)](https://github.com/Giovanni-Furlan)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Giovanni-Furlan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
